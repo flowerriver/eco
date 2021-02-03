@@ -2,7 +2,7 @@ hasCJKLanguage = true
 baseurl = "https://vigilant-williams-a67d30.netlify.app"
 languageCode = "en-us"
 paginate = 6
-summaryLength = "40"
+summaryLength = 40
 theme = "parsa-hugo"
 title = "Parsa Hugo | Personal Blog Template"
 [[menu.main]]
