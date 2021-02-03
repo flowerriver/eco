@@ -1,0 +1,3 @@
+[submodule "mediablog/themes/parsa-hugo"]
+	path = mediablog/themes/parsa-hugo
+	url = https://github.com/themefisher/parsa-hugo

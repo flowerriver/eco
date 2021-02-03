@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Parsa Hugo | Personal Blog Template</title>
+    <link>https://vigilant-williams-a67d30.netlify.app/tags/</link>
+    <description>Recent content in Tags on Parsa Hugo | Personal Blog Template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate><atom:link href="https://vigilant-williams-a67d30.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Article</title>
+      <link>https://vigilant-williams-a67d30.netlify.app/tags/article/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://vigilant-williams-a67d30.netlify.app/tags/article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fashion</title>
+      <link>https://vigilant-williams-a67d30.netlify.app/tags/fashion/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://vigilant-williams-a67d30.netlify.app/tags/fashion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finance</title>
+      <link>https://vigilant-williams-a67d30.netlify.app/tags/finance/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://vigilant-williams-a67d30.netlify.app/tags/finance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Food</title>
+      <link>https://vigilant-williams-a67d30.netlify.app/tags/food/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://vigilant-williams-a67d30.netlify.app/tags/food/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nature</title>
+      <link>https://vigilant-williams-a67d30.netlify.app/tags/nature/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://vigilant-williams-a67d30.netlify.app/tags/nature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Philosophy</title>
+      <link>https://vigilant-williams-a67d30.netlify.app/tags/philosophy/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://vigilant-williams-a67d30.netlify.app/tags/philosophy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photos</title>
+      <link>https://vigilant-williams-a67d30.netlify.app/tags/photos/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://vigilant-williams-a67d30.netlify.app/tags/photos/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

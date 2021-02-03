@@ -1,0 +1,6 @@
+[build]
+publish = "public"
+command = "hugo --theme=parsa-hugo --buildDrafts --gc --minify"
+
+[context.deploy-preview.environment]
+HUGO_VERSION = "0.80.0"
