@@ -5,10 +5,10 @@ paginate = 6
 summaryLength = 40
 theme = "parsa-hugo"
 title = "Earth Studio | 地球にちょっといい暮らし"
-[[menu.main]]
-name = "Homepage"
-url = "homepage"
-weight = 1
+#[[menu.main]]
+#name = "Homepage"
+#url = "homepage"
+#weight = 1
 [[menu.main]]
 name = "About"
 url = "about"
