@@ -15,6 +15,11 @@ sections:
   create: all
   match: "**/*"
 - type: directory
+  path: content/homepage
+  label: Homepage
+  create: all
+  match: "**/*"
+- type: directory
   path: content/contact
   label: Contact
   create: all
@@ -22,11 +27,6 @@ sections:
 - type: directory
   path: content/about
   label: About
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/homepage
-  label: Homepage
   create: all
   match: "**/*"
 upload_dir: static/uploads
