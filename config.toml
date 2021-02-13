@@ -7,6 +7,7 @@ theme = "parsa-hugo"
 title = "Parsa Hugo | Personal Blog Template"
 [[menu.main]]
 name = "Homepage"
+url = "homepage"
 weight = 1
 [[menu.main]]
 name = "About"
